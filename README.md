@@ -4,7 +4,6 @@
     * Junior Web/Mobile Developer
     * Junior IT Support/Consultant
     * Junior Software Tester
-      
 - 📫 How to reach me: qilin.ren@outlook.com
 
 <!--
