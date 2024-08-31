@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm @real-qilinren
 - 🎓 I'm a 2024 graduate @USYD | Software Engineering
-- 💼 I'm looking for full/part time job @Junior Software Developer/Tester || @IT Support/Consultant
+- 💼 I'm looking for full time job @Graduate/Junior IT roles
 - 📫 How to reach me: qilin.ren@outlook.com
 
 <!--
